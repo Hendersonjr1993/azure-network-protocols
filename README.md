@@ -16,6 +16,9 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 - Various Network Protocols (SSH, RDH, DNS, HTTP/S, ICMP)
 - Wireshark (Protocol Analyzer)
 
+<h2>Video Demonstration</h2>
+
+- ### [YouTube: How to Deploy Network Security Groups (NSGs) and Inspecting Traffic Between Azure Virtual Machines](https://www.youtube.com/watch?v=xpSPjCKVdW8)
 <h2>Operating Systems Used </h2>
 
 - Windows 10 (21H2)
